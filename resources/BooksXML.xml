@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books
+xmlns = "http://www.it-academy.by/books_schema" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation = "http://www.it-academy.by/books_schema books_schema.xsd" 
+>
+    <book id="1">
+        <title>Poirot Investigates</title>
+        <pages>300</pages>
+        <author>
+              <name>Agatha</name>
+              <surname>Christie</surname>
+              <age>40</age>
+         </author>
+     </book>
+    <book id="2">
+       <title>Murder on the Orient Express</title>
+       <pages>270</pages>
+       <author>
+              <name>Agatha</name>
+              <surname>Christie</surname>
+              <age>40</age>
+         </author>
+      </book>
+</books>
